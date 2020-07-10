@@ -1,7 +1,7 @@
 # Alek Vila here.
 I am a web developer with skills in HTML, CSS, Vanilla JS, PHP, MySQL, Sass, Vue.js, and Git.
 
-I am currently available for hire!
+Currently available for hire!
 
 ## Recent Website Projects
 
@@ -16,4 +16,4 @@ I am currently available for hire!
 
 For more examples, please visit my [online portfolio](https://www.greatgraphicdesign.com/).
 
-[Contact](https://www.greatgraphicdesign.com/contact)
+[Contact Me](https://www.greatgraphicdesign.com/contact)
