@@ -1,8 +1,6 @@
 # Alek Vila here.
 I am a web developer with skills in HTML, CSS, Vanilla JS, PHP, MySQL, Sass, Vue.js, and Git.
 
-Currently available for hire! [Contact Me](https://greatgraphicdesign.com/contact)
-
 ## Recent Website Projects
 
 [Auditorium Props](https://www.auditoriumprops.com/) - PHP/MySQL db driven design.
