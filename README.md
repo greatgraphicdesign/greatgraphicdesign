@@ -1,5 +1,5 @@
 # Alek Vila here.
-I am a web developer with skills in HTML, CSS, Vanilla JS, PHP, MySQL, Sass, Vue.js, and Git.
+I am a web developer with skills in HTML, CSS, JavaScript, Qwik, React, PHP, MySQL, Sass, Vue.js, and Git.
 
 ## Recent Website Projects
 
